@@ -23,7 +23,7 @@ header("Location:./index.php");
 if (isset($_POST['Email'])) {
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "you@yourdomain.com";
+    $email_to = "info@umgpak.com";
     $email_subject = "New form submissions";
 
     function problem($error)
